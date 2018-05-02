@@ -4,7 +4,7 @@
 echo <<< EOD
 {
     "type" : "buttons",
-    "buttons" : ["시작하기!"]
+    "buttons" : ["#init1","#init2","init3"]
 }
 EOD;
  
