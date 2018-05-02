@@ -19,12 +19,12 @@ ini_set('memory_limit','-1');
 
 
 
-if( $content == "시작하기!" )
+if( $content == #cond1 )
 {
 echo <<< EOD
     {
         "message": {
-            "text": "안녕~~ 반가워 ㅎㅎ"
+            "text": "#text1"
         }
     }    
 EOD;
